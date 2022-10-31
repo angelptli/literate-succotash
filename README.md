@@ -5,3 +5,4 @@ third commit
 fourth commit
 fifth commit - staging
 sixth commit - staging
+seventh commit - staging
