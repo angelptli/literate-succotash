@@ -8,3 +8,4 @@ fifth commit - from staging
 sixth commit - from staging
 seventh commit - from staging
 eight commit placing - from staging
+new commit here - from staging
