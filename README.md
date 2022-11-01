@@ -23,3 +23,5 @@ another change - from neither branch
 
 a change - from staging
 another commit - from test_branch
+
+a change - from test_branch3
